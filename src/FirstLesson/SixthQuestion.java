@@ -1,7 +1,6 @@
 package FirstLesson;
 
 import java.util.Scanner;
-
 /*
 * The variables x and y store two natural numbers. Co-
 create a program to print to the console

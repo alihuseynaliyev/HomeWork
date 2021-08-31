@@ -28,7 +28,7 @@ public class FourthQuestion {
             System.out.println("The entered numbers are between 100 and 999");
         }
         else {
-            System.out.println("The entered numbers are not between 100 and 999");
+            System.out.println("The entered numbers are not between 0 and 999");
         }
     }
 }

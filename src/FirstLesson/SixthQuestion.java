@@ -23,6 +23,6 @@ public class SixthQuestion {
 
         System.out.println("Result of integer division of x by y: " + (x / y));
         System.out.println("Remainder of dividing x by y: " + (x % y));
-        System.out.println("Square root of x: " + (x * x));
+        System.out.println("Square root of x: " + (Math.sqrt(x)));
     }
 }

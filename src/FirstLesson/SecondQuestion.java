@@ -6,10 +6,10 @@ public class SecondQuestion {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Eter first number");
+        System.out.println("Enter first number");
         int firstNumber = sc.nextInt();
 
-        System.out.println("Eter second number");
+        System.out.println("Enter second number");
         int secondNumber = sc.nextInt();
 
 

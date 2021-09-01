@@ -13,8 +13,6 @@ public class FourteenthQuestion {
         int minutes = seconds / 60;
         int hours = minutes / 60;
         int days = hours / 24;
-
-
         System.out.println(days + " days, " + hours + " hours, " + minutes + " minutes, " + seconds + " seconds");
     }
 }

@@ -16,7 +16,7 @@ public class SixthQuestion {
         System.out.println("-----------------------------------------");
 
         System.out.println("Please enter y");
-        int y = sc.nextInt();//
+        int y = sc.nextInt();
         System.out.println("y: " + y);
 
         System.out.println("-----------------------------------------");
